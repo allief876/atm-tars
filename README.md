@@ -1,5 +1,5 @@
 # ATM Tars
-Untuk memenuhi tugas besar 1 KU201102
+Untuk memenuhi tugas besar 1 KU1102 Pengenalan Komputasi Semester 1 2019/2020
 
 ## Deskripsi Program
 Program ini akan mensimulasikan ATM dan melakukan fungsi dasarnya seperti::
